@@ -1,4 +1,4 @@
 client.on("ready",()=>{
 console.log("ready")
-client.login('MTU0ODQ4OTkxNjA1NTU1NjIxOA.G2HYJ4.61NDwb34YynpBX6fcGpiA7F-S7A7bDQj7gVxcc').then(()=>{console.log("Ready!")
+client.login('Token').then(()=>{console.log("Ready!")
 }).cathch(console.error);
